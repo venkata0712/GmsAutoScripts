@@ -1,0 +1,28 @@
+16/03/2023 15:10:39 devpinoyLogger Launching Chrome !!!
+16/03/2023 15:10:41 devpinoyLogger Navigated to : https://gms8.rampwms.com/
+16/03/2023 15:10:41 devpinoyLogger Typing in an Element : [[ChromeDriver: chrome on WINDOWS (0bbe050e37cf0598faf7b9dd3c3b4d9c)] -> id: userName] entered value as : ramp
+16/03/2023 15:10:41 devpinoyLogger Typing in an Element : [[ChromeDriver: chrome on WINDOWS (0bbe050e37cf0598faf7b9dd3c3b4d9c)] -> id: passwordLogin] entered value as : 7410qa
+16/03/2023 15:10:41 devpinoyLogger Clicking on an Element : [[ChromeDriver: chrome on WINDOWS (0bbe050e37cf0598faf7b9dd3c3b4d9c)] -> id: jsCap]
+16/03/2023 15:11:03 devpinoyLogger Clicking on an Element : [[ChromeDriver: chrome on WINDOWS (0bbe050e37cf0598faf7b9dd3c3b4d9c)] -> xpath: //button[text()='Submit']]
+16/03/2023 15:11:03 devpinoyLogger Clicking on an Element : [[ChromeDriver: chrome on WINDOWS (0bbe050e37cf0598faf7b9dd3c3b4d9c)] -> id: customerReg]
+16/03/2023 15:11:04 devpinoyLogger Clicking on an Element : [[ChromeDriver: chrome on WINDOWS (0bbe050e37cf0598faf7b9dd3c3b4d9c)] -> id: select2-customerVehicleNbr-container]
+16/03/2023 15:11:04 devpinoyLogger Typing in an Element : [[ChromeDriver: chrome on WINDOWS (0bbe050e37cf0598faf7b9dd3c3b4d9c)] -> xpath: //input[@class='select2-search__field']] entered value as : ap22aa2252
+16/03/2023 15:11:06 devpinoyLogger Clicking on an Element : [[[[ChromeDriver: chrome on WINDOWS (0bbe050e37cf0598faf7b9dd3c3b4d9c)] -> id: select2-customerVehicleNbr-results]] -> tag name: li]
+16/03/2023 15:11:09 devpinoyLogger Clicking on an Element : [[ChromeDriver: chrome on WINDOWS (0bbe050e37cf0598faf7b9dd3c3b4d9c)] -> id: select2-vehicleType-container]
+16/03/2023 15:11:09 devpinoyLogger Typing in an Element : [[ChromeDriver: chrome on WINDOWS (0bbe050e37cf0598faf7b9dd3c3b4d9c)] -> xpath: //input[@class='select2-search__field']] entered value as : Aud
+16/03/2023 15:11:12 devpinoyLogger Clicking on an Element : [[[[ChromeDriver: chrome on WINDOWS (0bbe050e37cf0598faf7b9dd3c3b4d9c)] -> id: select2-vehicleType-results]] -> tag name: li]
+16/03/2023 15:11:12 devpinoyLogger Clicking on an Element : [[ChromeDriver: chrome on WINDOWS (0bbe050e37cf0598faf7b9dd3c3b4d9c)] -> id: select2-vehicleCategory-container]
+16/03/2023 15:11:13 devpinoyLogger Clicking on an Element : [[[[ChromeDriver: chrome on WINDOWS (0bbe050e37cf0598faf7b9dd3c3b4d9c)] -> id: select2-vehicleCategory-results]] -> tag name: li]
+16/03/2023 15:11:13 devpinoyLogger Typing in an Element : [[ChromeDriver: chrome on WINDOWS (0bbe050e37cf0598faf7b9dd3c3b4d9c)] -> id: customerName] entered value as : Venkat
+16/03/2023 15:11:13 devpinoyLogger Typing in an Element : [[ChromeDriver: chrome on WINDOWS (0bbe050e37cf0598faf7b9dd3c3b4d9c)] -> id: emailIdCust] entered value as : venkata.ysqa@gmail.com
+16/03/2023 15:11:13 devpinoyLogger Typing in an Element : [[ChromeDriver: chrome on WINDOWS (0bbe050e37cf0598faf7b9dd3c3b4d9c)] -> id: customerMobile] entered value as : 8919344944
+16/03/2023 15:11:14 devpinoyLogger Typing in an Element : [[ChromeDriver: chrome on WINDOWS (0bbe050e37cf0598faf7b9dd3c3b4d9c)] -> id: customer_address] entered value as : Hyderabad
+16/03/2023 15:11:14 devpinoyLogger Typing in an Element : [[ChromeDriver: chrome on WINDOWS (0bbe050e37cf0598faf7b9dd3c3b4d9c)] -> id: new_chasis_no] entered value as : GR45I4355465
+16/03/2023 15:11:14 devpinoyLogger Typing in an Element : [[ChromeDriver: chrome on WINDOWS (0bbe050e37cf0598faf7b9dd3c3b4d9c)] -> id: new_engine_no] entered value as : EN977F7988
+16/03/2023 15:11:14 devpinoyLogger Typing in an Element : [[ChromeDriver: chrome on WINDOWS (0bbe050e37cf0598faf7b9dd3c3b4d9c)] -> id: new_date_of_registeration] entered value as : 23/02/2015
+16/03/2023 15:11:14 devpinoyLogger Typing in an Element : [[ChromeDriver: chrome on WINDOWS (0bbe050e37cf0598faf7b9dd3c3b4d9c)] -> id: veh_mfg_year] entered value as : 2015
+16/03/2023 15:11:14 devpinoyLogger Typing in an Element : [[ChromeDriver: chrome on WINDOWS (0bbe050e37cf0598faf7b9dd3c3b4d9c)] -> id: kilometerDriven] entered value as : 123465
+16/03/2023 15:11:16 devpinoyLogger Clicking on an Element : [[ChromeDriver: chrome on WINDOWS (0bbe050e37cf0598faf7b9dd3c3b4d9c)] -> id: select2-technicianName-container]
+16/03/2023 15:11:17 devpinoyLogger Clicking on an Element : [[[[ChromeDriver: chrome on WINDOWS (0bbe050e37cf0598faf7b9dd3c3b4d9c)] -> id: select2-technicianName-results]] -> tag name: li]
+16/03/2023 15:11:17 devpinoyLogger Clicking on an Element : [[ChromeDriver: chrome on WINDOWS (0bbe050e37cf0598faf7b9dd3c3b4d9c)] -> id: select2-supervisorName-container]
+16/03/2023 15:11:18 devpinoyLogger Clicking on an Element : [[[[ChromeDriver: chrome on WINDOWS (0bbe050e37cf0598faf7b9dd3c3b4d9c)] -> id: select2-supervisorName-results]] -> tag name: li]

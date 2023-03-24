@@ -1,0 +1,38 @@
+15:10:39,868  INFO devpinoyLogger:57 - Launching Chrome !!!
+15:10:41,143  INFO devpinoyLogger:68 - Navigated to : https://gms8.rampwms.com/
+15:10:41,485 DEBUG devpinoyLogger:89 - Typing in an Element : [[ChromeDriver: chrome on WINDOWS (0bbe050e37cf0598faf7b9dd3c3b4d9c)] -> id: userName] entered value as : ramp
+15:10:41,607 DEBUG devpinoyLogger:89 - Typing in an Element : [[ChromeDriver: chrome on WINDOWS (0bbe050e37cf0598faf7b9dd3c3b4d9c)] -> id: passwordLogin] entered value as : 7410qa
+15:10:41,719 DEBUG devpinoyLogger:80 - Clicking on an Element : [[ChromeDriver: chrome on WINDOWS (0bbe050e37cf0598faf7b9dd3c3b4d9c)] -> id: jsCap]
+15:11:03,343 DEBUG devpinoyLogger:80 - Clicking on an Element : [[ChromeDriver: chrome on WINDOWS (0bbe050e37cf0598faf7b9dd3c3b4d9c)] -> xpath: //button[text()='Submit']]
+15:11:03,406 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+15:11:03,409 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+15:11:03,411 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+15:11:03,412 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+15:11:03,412 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/shiva/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+15:11:03,968 DEBUG devpinoyLogger:80 - Clicking on an Element : [[ChromeDriver: chrome on WINDOWS (0bbe050e37cf0598faf7b9dd3c3b4d9c)] -> id: customerReg]
+15:11:04,151 DEBUG devpinoyLogger:80 - Clicking on an Element : [[ChromeDriver: chrome on WINDOWS (0bbe050e37cf0598faf7b9dd3c3b4d9c)] -> id: select2-customerVehicleNbr-container]
+15:11:04,354 DEBUG devpinoyLogger:89 - Typing in an Element : [[ChromeDriver: chrome on WINDOWS (0bbe050e37cf0598faf7b9dd3c3b4d9c)] -> xpath: //input[@class='select2-search__field']] entered value as : ap22aa2252
+15:11:06,711 DEBUG devpinoyLogger:80 - Clicking on an Element : [[[[ChromeDriver: chrome on WINDOWS (0bbe050e37cf0598faf7b9dd3c3b4d9c)] -> id: select2-customerVehicleNbr-results]] -> tag name: li]
+15:11:09,634 DEBUG devpinoyLogger:80 - Clicking on an Element : [[ChromeDriver: chrome on WINDOWS (0bbe050e37cf0598faf7b9dd3c3b4d9c)] -> id: select2-vehicleType-container]
+15:11:09,769 DEBUG devpinoyLogger:89 - Typing in an Element : [[ChromeDriver: chrome on WINDOWS (0bbe050e37cf0598faf7b9dd3c3b4d9c)] -> xpath: //input[@class='select2-search__field']] entered value as : Aud
+15:11:12,069 DEBUG devpinoyLogger:80 - Clicking on an Element : [[[[ChromeDriver: chrome on WINDOWS (0bbe050e37cf0598faf7b9dd3c3b4d9c)] -> id: select2-vehicleType-results]] -> tag name: li]
+15:11:12,180 DEBUG devpinoyLogger:80 - Clicking on an Element : [[ChromeDriver: chrome on WINDOWS (0bbe050e37cf0598faf7b9dd3c3b4d9c)] -> id: select2-vehicleCategory-container]
+15:11:13,349 DEBUG devpinoyLogger:80 - Clicking on an Element : [[[[ChromeDriver: chrome on WINDOWS (0bbe050e37cf0598faf7b9dd3c3b4d9c)] -> id: select2-vehicleCategory-results]] -> tag name: li]
+15:11:13,539 DEBUG devpinoyLogger:89 - Typing in an Element : [[ChromeDriver: chrome on WINDOWS (0bbe050e37cf0598faf7b9dd3c3b4d9c)] -> id: customerName] entered value as : Venkat
+15:11:13,739 DEBUG devpinoyLogger:89 - Typing in an Element : [[ChromeDriver: chrome on WINDOWS (0bbe050e37cf0598faf7b9dd3c3b4d9c)] -> id: emailIdCust] entered value as : venkata.ysqa@gmail.com
+15:11:13,919 DEBUG devpinoyLogger:89 - Typing in an Element : [[ChromeDriver: chrome on WINDOWS (0bbe050e37cf0598faf7b9dd3c3b4d9c)] -> id: customerMobile] entered value as : 8919344944
+15:11:14,099 DEBUG devpinoyLogger:89 - Typing in an Element : [[ChromeDriver: chrome on WINDOWS (0bbe050e37cf0598faf7b9dd3c3b4d9c)] -> id: customer_address] entered value as : Hyderabad
+15:11:14,265 DEBUG devpinoyLogger:89 - Typing in an Element : [[ChromeDriver: chrome on WINDOWS (0bbe050e37cf0598faf7b9dd3c3b4d9c)] -> id: new_chasis_no] entered value as : GR45I4355465
+15:11:14,439 DEBUG devpinoyLogger:89 - Typing in an Element : [[ChromeDriver: chrome on WINDOWS (0bbe050e37cf0598faf7b9dd3c3b4d9c)] -> id: new_engine_no] entered value as : EN977F7988
+15:11:14,595 DEBUG devpinoyLogger:89 - Typing in an Element : [[ChromeDriver: chrome on WINDOWS (0bbe050e37cf0598faf7b9dd3c3b4d9c)] -> id: new_date_of_registeration] entered value as : 23/02/2015
+15:11:14,749 DEBUG devpinoyLogger:89 - Typing in an Element : [[ChromeDriver: chrome on WINDOWS (0bbe050e37cf0598faf7b9dd3c3b4d9c)] -> id: veh_mfg_year] entered value as : 2015
+15:11:14,899 DEBUG devpinoyLogger:89 - Typing in an Element : [[ChromeDriver: chrome on WINDOWS (0bbe050e37cf0598faf7b9dd3c3b4d9c)] -> id: kilometerDriven] entered value as : 123465
+15:11:16,119 DEBUG devpinoyLogger:80 - Clicking on an Element : [[ChromeDriver: chrome on WINDOWS (0bbe050e37cf0598faf7b9dd3c3b4d9c)] -> id: select2-technicianName-container]
+15:11:17,250 DEBUG devpinoyLogger:80 - Clicking on an Element : [[[[ChromeDriver: chrome on WINDOWS (0bbe050e37cf0598faf7b9dd3c3b4d9c)] -> id: select2-technicianName-results]] -> tag name: li]
+15:11:17,349 DEBUG devpinoyLogger:80 - Clicking on an Element : [[ChromeDriver: chrome on WINDOWS (0bbe050e37cf0598faf7b9dd3c3b4d9c)] -> id: select2-supervisorName-container]
+15:11:18,499 DEBUG devpinoyLogger:80 - Clicking on an Element : [[[[ChromeDriver: chrome on WINDOWS (0bbe050e37cf0598faf7b9dd3c3b4d9c)] -> id: select2-supervisorName-results]] -> tag name: li]
+15:11:18,499 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+15:11:18,499 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+15:11:18,499 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+15:11:18,499 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+15:11:18,499 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/shiva/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
