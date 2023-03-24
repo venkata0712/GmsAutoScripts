@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Test"
+           tests="2"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="8.040">
+  <properties />
+  
+  
+            <testcase name="clickCustRegTab" time="0.259" classname="com.gms.testcases.CustReg" />
+                <testcase name="custRegTest" time="7.781" classname="com.gms.testcases.CustReg" />
+      
+</testsuite>

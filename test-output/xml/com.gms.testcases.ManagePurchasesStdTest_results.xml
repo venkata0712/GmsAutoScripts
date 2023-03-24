@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Test"
+           tests="1"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="80.839">
+  <properties />
+  
+  
+            <testcase name="managePurchasesStdTest" time="80.839" classname="com.gms.testcases.ManagePurchasesStdTest" />
+      
+</testsuite>
